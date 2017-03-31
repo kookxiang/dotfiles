@@ -1,0 +1,9 @@
+[user]
+	name = kookxiang
+	email = kookxiang@gmail.com
+[http]
+	proxy = http://127.0.0.1:8118
+[https]
+	proxy = http://127.0.0.1:8118
+[commit]
+	gpgsign = true
