@@ -1,0 +1,9 @@
+syntax on
+set tabstop=4
+set shiftwidth=4
+set shiftround
+set expandtab
+set backspace=2
+set mouse=a
+set hlsearch
+set incsearch
